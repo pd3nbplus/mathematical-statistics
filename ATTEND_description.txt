@@ -1,0 +1,19 @@
+ATTEND.DES
+
+attend    termGPA   priGPA    ACT       final     atndrte   hwrte     frosh    
+soph      skipped   stndfnl   
+
+
+  Obs:   680
+
+  1. attend                   classes attended out of 32
+  2. termGPA                  GPA for term
+  3. priGPA                   cumulative GPA prior to term 学期前的累积GPA
+  4. ACT                      ACT score
+  5. final                    final exam score 期末考试分数
+  6. atndrte                  percent classes attended 课程参加了百分比
+  7. hwrte                    percent homework turned in 交作业百分比
+  8. frosh                    =1 if freshman 大一
+  9. soph                     =1 if sophomore 大二
+ 10. skipped                  number of classes skipped 跳过的个数
+ 11. stndfnl                  (final - mean)/sd
